@@ -7,4 +7,4 @@
 - remove .git from rails app so it can be tracked by the github repo
 - create a db
 - enable rails app to compile javascript
-- 
+- install react files/folders
